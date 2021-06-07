@@ -13,7 +13,7 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kltony9898)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=kltony9898&theme=draculaa&hide=stars)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kltony9898&theme=vue-dark&hide=stars)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kltony9898&theme=vue-dark)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
