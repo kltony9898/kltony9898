@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ashes</h1>
+<h1 align="center">Hi 👋, I'm Ashe</h1>
 <h3 align="center">A frontend developer from Taiwan</h3>
 
 - 🌱 I’m currently learning **Vue**
